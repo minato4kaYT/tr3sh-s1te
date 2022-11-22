@@ -1,0 +1,6 @@
+{
+    "discord.detailsEditing": "Editing {file_name}",
+    "discord.workspaceExcludePatterns": [
+        "View Repository"
+    ]
+}
